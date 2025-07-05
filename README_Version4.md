@@ -4,7 +4,7 @@
 📱 +44 7349 858947  
 📍 United Kingdom  
 [LinkedIn](https://www.linkedin.com/in/nilesh-peddapally-1784342b4)  
-<!-- [Portfolio Website - Coming Soon] -->
+(https://github.com/nileshpeddapally/portfolio.git)
 
 ---
 
